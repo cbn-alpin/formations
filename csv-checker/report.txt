@@ -1,0 +1,1014 @@
+01idhab:
+	1603
+	1605
+	16052
+	1607
+	16082
+	1608
+	16092
+	1609
+	1610
+	16072
+	1611
+	16112
+	16113
+	16114
+	16115
+	16116
+	1612
+	1614
+	16122
+	1615
+	16182
+	1618
+	1619
+	1620
+	1621
+	1622
+	1623
+	1624
+	1625
+	1626
+	1627
+	1628
+	1630
+	1632
+	1633
+	16342
+	1634
+	16362
+	1636
+	1637
+	1751
+	1752
+	1753
+	1754
+	1755
+	1756
+	1758
+	16152
+	1759
+	17592
+	1760
+	1761
+	1762
+	1763
+	1764
+	1765
+	1766
+	1767
+	1768
+	1769
+	1770
+	1771
+	1772
+	1773
+	1774
+	1776
+	1777
+	1778
+	1779
+	17602
+	17792
+	1780
+	1783
+	17842
+	1784
+	1785
+	1788
+	1789
+	1792
+	1793
+	17952
+	1795
+	1796
+	1798
+	1799
+	1800
+	18012
+	1801
+	1802
+	1805
+	1806
+	1807
+	1808
+	2441
+	2442
+	2443
+	2444
+	2445
+	2446
+	2447
+	2448
+	2449
+	2450
+	2451
+	2452
+	2453
+	2454
+	2455
+	2456
+	2457
+	2458
+	2459
+	2460
+	2461
+	2462
+	2463
+	2464
+	2465
+	2466
+	2467
+	2468
+	2469
+	2470
+	2471
+	2472
+	2473
+	2474
+	2475
+	2476
+	2477
+	2478
+	2479
+	2481
+	2482
+	2483
+	2484
+	2485
+	2486
+	2487
+	2488
+	2490
+	2491
+	2492
+	2494
+	2496
+	2497
+	2498
+	2500
+	2501
+	2504
+	2505
+	2506
+	2507
+	2508
+	2509
+	2511
+	2512
+	2513
+	2514
+	2515
+	2516
+	2517
+	2518
+	2519
+	2520
+	2522
+	2523
+	2524
+	2525
+	2526
+	2527
+	2529
+	2530
+	2531
+	2532
+	2533
+	2534
+	2535
+	2536
+	2537
+	2538
+	2539
+	2540
+	2541
+	2542
+	2543
+	2544
+	2545
+	2546
+	2547
+	2548
+	2549
+	2550
+	2551
+	2552
+	2553
+	2554
+	2555
+	2556
+	2557
+	2558
+	2559
+	2560
+	2561
+	2562
+	2563
+	2564
+	2565
+	2566
+	2567
+	2568
+	2569
+	2570
+	2572
+	2573
+	2576
+	2577
+	2578
+	2579
+	2580
+	2581
+	2583
+	2584
+	2585
+	2586
+	2587
+	2588
+	2589
+	2590
+	2591
+	2592
+	2594
+	2595
+	2596
+	2597
+	2598
+	2599
+	2600
+	2601
+	2602
+	26042
+	2604
+	26062
+	2606
+	2607
+	2608
+	2609
+	2610
+	2613
+	2614
+	2615
+	2619
+	2621
+	2622
+	2623
+	2624
+	2625
+	2626
+	2627
+	2628
+	2629
+	2630
+	2631
+	2632
+	2633
+	2635
+	2636
+02idpolhab:
+	1603
+	1605
+	16052
+	1607
+	1608
+	1609
+	1610
+	1611
+	1612
+	1614
+	1615
+	1618
+	1619
+	1620
+	1621
+	1622
+	1623
+	1624
+	1625
+	1626
+	1627
+	1628
+	1630
+	1632
+	1633
+	1634
+	1636
+	1637
+	1751
+	1752
+	1753
+	1754
+	1755
+	1756
+	1758
+	1759
+	1760
+	1761
+	1762
+	1763
+	1764
+	1765
+	1766
+	1767
+	1768
+	1769
+	1770
+	1771
+	1772
+	1773
+	1774
+	1776
+	1777
+	1778
+	1779
+	1780
+	1783
+	1784
+	1785
+	1788
+	1789
+	1792
+	1793
+	1795
+	1796
+	1798
+	1799
+	1800
+	1801
+	1802
+	1805
+	1806
+	1807
+	1808
+	2441
+	2442
+	2443
+	2444
+	2445
+	2446
+	2447
+	2448
+	2449
+	2450
+	2451
+	2452
+	2453
+	2454
+	2455
+	2456
+	2457
+	2458
+	2459
+	2460
+	2461
+	2462
+	2463
+	2464
+	2465
+	2466
+	2467
+	2468
+	2469
+	2470
+	2471
+	2472
+	2473
+	2474
+	2475
+	2476
+	2477
+	2478
+	2479
+	2481
+	2482
+	2483
+	2484
+	2485
+	2486
+	2487
+	2488
+	2490
+	2491
+	2492
+	2494
+	2496
+	2497
+	2498
+	2500
+	2501
+	2504
+	2505
+	2506
+	2507
+	2508
+	2509
+	2511
+	2512
+	2513
+	2514
+	2515
+	2516
+	2517
+	2518
+	2519
+	2520
+	2522
+	2523
+	2524
+	2525
+	2526
+	2527
+	2529
+	2530
+	2531
+	2532
+	2533
+	2534
+	2535
+	2536
+	2537
+	2538
+	2539
+	2540
+	2541
+	2542
+	2543
+	2544
+	2545
+	2546
+	2547
+	2548
+	2549
+	2550
+	2551
+	2552
+	2553
+	2554
+	2555
+	2556
+	2557
+	2558
+	2559
+	2560
+	2561
+	2562
+	2563
+	2564
+	2565
+	2566
+	2567
+	2568
+	2569
+	2570
+	2572
+	2573
+	2576
+	2577
+	2578
+	2579
+	2580
+	2581
+	2583
+	2584
+	2585
+	2586
+	2587
+	2588
+	2589
+	2590
+	2591
+	2592
+	2594
+	2595
+	2596
+	2597
+	2598
+	2599
+	2600
+	2601
+	2602
+	2604
+	2606
+	2607
+	2608
+	2609
+	2610
+	2613
+	2614
+	2615
+	2619
+	2621
+	2622
+	2623
+	2624
+	2625
+	2626
+	2627
+	2628
+	2629
+	2630
+	2631
+	2632
+	2633
+	2635
+	2636
+03numsite:
+	FR8201720
+04cdhab:
+	QUE_PUB1
+	CAL_GEN
+	SOL_NU
+	SPH_ALN
+	SHP_MED
+	CAR_FAG
+	MES_BRO2
+	POT_CAU
+	QUE_ROB2
+	QUE_ROB1
+	ALN_GLU
+	GOL_GAZ
+	CEP_FAG
+	CAL_PAL
+	MAG_ELA
+	CHE_ANT
+	MES_BRO1
+	GOL_SAB
+	GOL_MUR
+	ARR_ELA2
+	GOL_BAS
+	GOL_PEL
+	XER_BRO
+	CAR_REM
+	SAL_CIN
+05lbhab:
+	Chênaie pubescente submontagnarde xérophile neutrocalcicole
+	Lande à callune collinéenne à sub-montagnarde sur grès
+	Sol nu
+	Aulnaie-boulaie collinéenne faiblement turfigène à sphaignes
+	Tourbière et bombements à sphaignes
+	Charmaies-chênaies et hêtraies-chênaies collinéennes mésophiles (et faciès à Castanea sativa) des sols peu acides à basiques
+	Prairie fauchée/paturée collinéo-montagnarde neutrocline à tendance mésoxérophile à Brome érigé (Bromopsis erecta) et Sainfoin des prés (Onobrychis viciifolia)
+	Parois rocheuses calcaires sèches et ensoleillées à semi-ombragées de l'étage montagnard
+	Chênaie sessiliflore (-hêtraie) acidophile mésophile
+	Chênaie-boulaie acidophile mésoxérophile des Alpes du Nord à callune
+	Aulnaies glutineuses ou aulnaies noires marécageuses des sols méso-eutrophes
+	Gazon des stades sportifs
+	Hêtraies et hêtraies-pinèdes sylvestres semisèches à céphalanthères (Cephalanthera spp.) des sols calcaires ou peu acides
+	Prairies humides médio-européennes des sols paratourbeux mésotrophes
+	Magnocariçaies des sols organiques mésotrophes à eutrophes, inondées ou très humides, à laîche élevée (Carex elata) et formations apparentées
+	Murs des vieilles villes
+	Sable stable avec peu ou pas de végétation
+	Prairies mésophiles de fauche de basse altitude à fromental (Arrhenatherum elatius)
+	Bassins des parcs
+	Pelouse des parcs golfs
+	Pelouse calciocole xérophile des régions médio-européennes
+	Végétation fontinale des sources, suintements et ruisselets ombragés à laiche à épis espacés (Carex remota) des étages planitiaire à montagnard
+	Saulaie arbustive des sols marécageux asphyxiques et oligotrophes
+06rechab:
+	100
+	70
+	30
+	90
+	40
+	60
+	10
+	20
+	16
+	80
+	15
+	85
+07surfhab:
+	0,84
+	0,07
+	0,28
+	0,08
+	0,06
+	0,11
+	0,12
+	0,01
+	0,94
+	0,79
+	7,9
+	10,91
+	0,7
+	4,75
+	0,92
+	0,86
+	1,76
+	3,3
+	3,9
+	11,47
+	0,75
+	0,22
+	0,47
+	6,73
+	2,13
+	1,58
+	3,46
+	2,35
+	2,22
+	0,17
+	0,05
+	0,3
+	0,33
+	0,29
+	0,41
+	0,2
+	0,16
+	0,04
+	0,13
+	0,03
+	0,02
+	0
+	1,51
+	0,26
+	1,16
+	2,55
+	0,69
+	1,41
+	0,68
+	1,02
+	1,83
+	0,1
+	0,27
+	3,82
+	0,91
+	4,22
+	0,14
+	0,56
+	1,17
+	0,24
+	0,39
+	0,45
+	0,78
+	0,51
+	0,62
+	2,45
+	2,61
+	0,15
+	0,36
+	0,6
+	3,29
+	10,12
+	11,19
+	1,72
+	1,68
+	0,63
+	0,71
+	0,5
+	0,74
+	0,97
+	0,37
+	2,64
+	0,46
+	1,03
+	0,9
+	0,44
+	0,67
+	0,18
+	0,09
+	1,78
+	1,15
+	0,55
+	0,73
+	1,21
+	0,64
+	0,34
+	3,74
+	6,52
+	4,82
+	1,86
+	1,81
+	0,35
+	0,82
+	1,75
+	2,8
+	0,57
+	2,99
+	0,61
+	1,93
+	2,69
+	1,05
+	0,42
+	1,32
+	2,03
+08calrecha:
+	O
+09habdom:
+	oui
+	non
+10cohabpol:
+	
+11cdhabref:
+	-1
+	16674
+	16618
+	16657
+	31640
+	20661
+	20676
+	16617
+	31669
+	16627
+	30984
+	30583
+	16544
+	16636
+	16616
+12lball:
+	Quercion pubescenti-petraeae
+	Genisto pilosae-Vaccinion uliginosi
+	non renseigné
+	Sphagno-Alnion glutinosae
+	Sphagnion medii
+	Carpino betuli-Fagion sylvaticae
+	Mesobromion erecti
+	Potentillion caulescentis
+	Quercion roboris
+	Alnion glutinosae
+	Cephalanthero damasonii-Fagion sylvaticae
+	Calthion palustris
+	Magnocaricion elatae
+	Arrhenatherion elatioris
+	Xerobromion erecti
+	Caricion remotae
+	Salicion cinereae
+13autall:
+	Br.-Bl. 1932
+	Br.-Bl. 1926
+	non renseigné
+	(Doing-Kraft in Maas 1959) H.Passarge et Hofmann 1968
+	M.Kästner et Flössner 1933
+	R. Boeuf, Renaux & J.-M. Royer in R. Boeuf 2011
+	W. Koch 1926
+	Br.-Bl. in Br.-Bl. & H. Jenny 1926
+	Malcuit 1929
+	(Tüxen 1955) Willner 2002
+	Tüxen 1937
+	Koch 1926
+	(Br.-Bl. & Moor 1938) Moravec in Holub, Hejn´y, Moravec & Neuhäusl 1967
+	Kästner 1941
+	T.Müll. et Görs 1958
+14lbsal:
+	Sorbo ariae-Quercenion pubescentis
+	non renseigné
+	Mesobromenion erecti
+	Kernero saxatilis-Potentillenion caulescentis
+	Quercenion robori-petraeae
+15autsal:
+	Rameau ex J.-M. Royer, Felzines, Misset & Thévenin 2009
+	non renseigné
+	Br.-Bl. & Moor 1938
+	Theurillat in Theurillat, Aeschimann, P. Küpfer & Spichiger 1995
+	Rivas Mart. 1975
+16lbass:
+	Quercetum pubescenti-petraeae
+	non renseigné
+	Mesobrometum erecti
+	Frangulo alni - Salicetum auritae
+17autass:
+	Imchenetzky nom. invers. Hernis 1933
+	non renseigné
+	W. Koch 1926
+	Tüxen 1937
+18formveg:
+	boisement feuillu  (mésophile à sec)
+	Lande (et landine)
+	non renseigné
+	Boisement feuillu humide
+	haut-marais
+	pelouse (de basse et moyenne altitude)
+	Parois et façades rocheuses (Végétation des)
+	Boisement feuillu  (mésophile à sec)
+	pelouses anthropisées
+	Forêts
+	prairie humide
+	roselières et magnocariçaies
+	prairies mésophiles de fauche et de pâture
+	pelouses et prairies sèches
+	Végétation fontinale
+	Fourré humide
+19stadhhab:
+	NC
+	IC
+	PR
+20cdn2000:
+	NC
+	4030
+	7110
+	9130
+	6210
+	8210
+	9110
+	9150
+	6510
+21lbn2000:
+	non concerné
+	Landes sèches européennes
+	Tourbières hautes actives
+	Hêtraies de l'Asperulo-Fagetum
+	Pelouses sèches semi-naturelles et faciès d'embuissonnement sur calcaires (Festuco Brometalia) (* sites d'orchidées remarquables)
+	Pentes rocheuses calcaires avec végétation chasmophytique
+	Hêtraies du Luzulo-Fagetum
+	Hêtraies calcicoles médio-européennes du Cephalanthero-Fagion
+	Pelouses de fauche de basse altitude (Alopecurus pratensis, Sanguisorba officinalis)
+22cdcahab:
+	NC
+	4030-10
+	7110-1
+	9130
+	6210-15
+	8210-11
+	9110-1
+	9150
+	6510
+	6210
+23lbcahab:
+	non concerné
+	Landes acidiphiles subatlantiques sèches à subsèches
+	Végétation des tourbières hautes actives
+	Hêtraies de l'Asperulo-Fagetum
+	Pelouses calcicoles mésophiles de l'Est
+	Falaises calcaires ensoleillées de la Bourgogne, du Jura et des Préalpes
+	Hêtraies, hêtraies-chênaies acidiphiles collinéennes
+	Hêtraies calcicoles médio-européennes du Cephalanthero-Fagion
+	Pelouses maigres de fauche de basse altitude (Alopecurus pratensis, Sanguisorba officinalis)
+	Sous-type 3 - Pelouses calcicoles subatlantiques xérophiles
+24cdcb:
+	41.711
+	31.22
+	NC
+	44.912
+	51.1
+	41.2
+	34.322
+	62.151
+	41.111
+	41.57
+	44.911
+	85.12
+	41.16
+	37.21
+	53.21
+	86
+	85
+	38.22
+	85.13
+	34.332
+	54.112
+	44.922
+25lbcb:
+	Bois occidentaux de Quercus pubescens
+	Landes subatlantiques à Genêt et Callune
+	non concerné
+	Bois d'Aulnes marécageux oligotrophes
+	Tourbières hautes à peu près naturelles
+	Chênaies-charmaies
+	Pelouses semi-sèches médio-européennes à Bromus erectus
+	Falaises calcaires ensoleillées des Alpes
+	Hêtraies collinéennes à Luzule
+	Chênaies acidiphiles médio-européennes
+	Bois d’Aulnes marécageux méso-eutrophes
+	Pelouses de parcs
+	Hêtraies sur calcaire
+	Prairies humides atlantiques et subatlantiques
+	Peuplements de grandes laîches (Magnocariçaies)
+	Villes, villages et sites industriels
+	Parcs urbains et grands jardins
+	Prairies de fauche des plaines médio-européennes
+	Bassins de parcs
+	Pelouses médio-européennes du Xerobromion
+	Sources à Cardamines
+	Saussaies à sphaigne
+26cdeunis:
+	G1.711
+	F4.22
+	NC
+	G1.412
+	D1.1
+	G1.A1
+	E1.262
+	H3.251
+	G1.611
+	G1.87
+	G1.411
+	E2.63
+	G1.66
+	E3.41
+	D5.21
+	J1
+	H5.32
+	J1.31
+	E2.22
+	C1.2
+	E2.64
+	E1.272
+	D2.2C2
+	F9.22
+27lbeunis:
+	Chênaies à Quercus pubescens occidentales
+	Landes subatlantiques à Calluna et Genista
+	non concerné
+	Aulnaies marécageuses oligotrophes
+	Tourbières hautes
+	Boisements sur sols eutrophes et mésotrophes à Quercus, Fraxinus et Carpinus betulus
+	Pelouses semi-sèches médio-européennes à Bromus erectus
+	Communautés héliophiles des falaises calcaires alpines
+	Hêtraies collinéennes médio-européennes à Luzule
+	Chênaies acidophiles médio-européennes
+	Aulnaies marécageuses méso-eutrophes
+	Gazons des stades sportifs
+	Hêtraies calcicoles médio-européennes
+	Prairies atlantiques et subatlantiques humides
+	Communautés de grands Carex (magnocariçaies)
+	Bâtiments des villes et des villages
+	Sable stable avec peu ou pas de végétation
+	Murs des vieilles villes
+	Prairies de fauche planitiaires subatlantiques
+	Lacs, étangs et mares mésotrophes permanents
+	Pelouses des parcs
+	Pelouses médio-européennes du Xerobromion
+	Sources à Cardamine
+	Saussaies marécageuses à Sphaignes
+28cddynhab:
+	1
+	3
+	-1
+29lbdynhab:
+	stable
+	régressive
+	non renseigné
+30cdusagpr:
+	NR
+	A03.03
+	A04
+	A03
+31lbusagpr:
+	non renseigné
+	Abandon / Absence de fauche
+	Pâturage
+	Fauche de prairies
+32plusages:
+	U
+33cddegprh:
+	I01
+	A03.03
+	NR
+	A04.03
+	K02.01
+	B
+	A04
+	B02
+	G02.01
+	A03.01
+	A08
+	G02.07
+34lbdegprh:
+	Espèces exotiques envahissantes
+	Abandon / Absence de fauche
+	non renseigné
+	Abandon de systèmes pastoraux, sous-pâturage
+	Modification de la composition spécifique (succession)
+	Sylviculture et opérations forestières
+	Pâturage
+	Gestion des forêts et des plantations & exploitation
+	Terrain de golf
+	Fauche intensive ou intensification
+	Fertilisation
+	Terrain de sport
+35pldeghab:
+	N
+	U
+36cdedchab:
+	1
+	2
+	-1
+	3
+37lbedchab:
+	Favorable
+	Défavorable inadéquat
+	Non renseigné
+	Défavorable mauvais
+38cdgest:
+	NR
+39lbgest:
+	non renseigné
+40plgest:
+	U
+41cdrestau:
+	-1
+42lbrestau:
+	Non renseigné
+43cdhabori:
+	
+44cocbn:
+	
+45evalcbn:
+	
+46uuidhab:
+	
+47uuidpol:
+	
+:
+	
