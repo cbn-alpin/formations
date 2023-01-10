@@ -24,10 +24,10 @@ def get_color_class(obs_nbr):
 
 # Connect to your postgres DB
 connection = psycopg2.connect(
-    database="***REMOVED***",
-    user="***REMOVED***",
-    password="***REMOVED***",
-    host="***REMOVED***",
+    database="<database_name>",
+    user="<user_name>",
+    password="<password>",
+    host="<host_ip>",
     port="5432",
 )
 
